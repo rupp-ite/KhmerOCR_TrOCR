@@ -1,0 +1,5 @@
+pillow --no-binary :all:
+pandas
+openpyxl
+numpy
+scikit-learn
