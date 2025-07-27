@@ -1,0 +1,7 @@
+transformers
+datasets
+pandas
+opencv-python
+Pillow
+jiwer
+matplotlib
